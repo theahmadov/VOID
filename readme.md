@@ -5,7 +5,27 @@
 ## Penetration Tutorial 
 [Nmap Scan](https://github.com/TheSadError/VOID/blob/main/core/nmap.md)
 
+# Installation
 
+## Way 1
+```
+pip install os
+git clone https://github.com/TheSadError/VOID
+cd VOID
+python3 setup.py
+```
+
+## Way 2
+```
+git clone https://github.com/TheSadError/VOID
+cd VOID
+sudo bash ./core/arch.sh # If you use kali linux or parrot please change ./core/arch.sh to ./core/debian.sh
+```
+
+# Run
+```
+python3 main.py
+```
 
 <div>
   <p align="center">
