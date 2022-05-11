@@ -38,6 +38,7 @@ python3 main.py
 [1]       Nmap
 [2]       Nikto
 [3]       SQLMap
+[4]       John The Ripper
 ```
 
 **Donation :**
