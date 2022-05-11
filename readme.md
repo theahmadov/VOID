@@ -1,4 +1,4 @@
-# VOID
+# VOID ![](https://visitor-badge.glitch.me/badge?page_id=TheSadError.TheSadError)
 
 **VOID is for scanning and hacking. There is many popular tools in VOID. You can scan web databases and vulnerabilities. Also you can brute force and other things... You have many choices. If you want to learn penetration , VOID may be a teacher for you. Because its open source code project. Please look VOID's source code and examine commands! And please dont forget to star project.**
 
