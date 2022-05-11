@@ -40,6 +40,12 @@ python3 main.py
 [3]       SQLMap
 ```
 
+**Donation :**
+```
+TR05 0006 2000 0280 0009 0525 31
+Name : Teymur Ahmetzade
+USD Type
+```
 
 ## This tool is for just Educational Purposes
 
