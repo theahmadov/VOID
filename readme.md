@@ -48,6 +48,6 @@ Name : Teymur Ahmetzade
 USD Type
 ```
 
-## This tool is for just Educational Purposes
+## This tool is just fot Educational Purposes
 
 ### © Copright 2022+ Error (TheSadError)
