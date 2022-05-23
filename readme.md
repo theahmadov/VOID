@@ -50,4 +50,4 @@ USD Type
 
 ## This tool is just fot Educational Purposes
 
-### © Copright 2022+ Error (TheSadError)
+### © Copright to Error (TheSadError)
